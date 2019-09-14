@@ -22,5 +22,5 @@ Flask is a lightweight WSGI web application framework.
 See https://palletsprojects.com/p/flask/
 
 There is no web interface, the algo uses the URL.    
-Add "/recommend/<int:ID_film>" at the end of your request, with "ID_film" the IMDB film number.    
+Add "/recommend/ID_film" at the end of your request, with "ID_film" the IMDB film number.    
 It offers 5 movies from one IMDb reference.
