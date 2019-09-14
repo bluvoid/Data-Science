@@ -17,5 +17,5 @@ Flask is a lightweight WSGI web application framework.
 See https://palletsprojects.com/p/flask/
 
 <b> - 20180710_README_API_CLOUD.txt: </b>    
-How to use the engine (french version).    
+How to use the MVP engine online (french version).    
 There is no web interface, the algo uses the URL.
