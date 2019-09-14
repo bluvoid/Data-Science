@@ -1,4 +1,4 @@
-# Project 4: Customers Segmentation
+# Customers Segmentation
 
 The aim of this project is to predict the customer profile (RFM) after the first shopping session.
 
