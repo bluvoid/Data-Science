@@ -1,7 +1,7 @@
 # Flight Delays Anticipation    
 
 <b> The average delay on all US flights exceeds 15 minutes (390 min).</b>     
-The aim of this project is to anticipate a hypothetical flight delay, based on the BTS database (Bureau of Transportation Statistics, part of the United States Department of Transportation).    
+The aim of this project is to anticipate a hypothetical flight delay, using the BTS database (Bureau of Transportation Statistics, part of the United States Department of Transportation).    
 See https://www.transtats.bts.gov/DataIndex.asp    
 
 <b> - 20180704_Flight_Delays_Anticipation_P1NoClean.ipynb:</b>    
