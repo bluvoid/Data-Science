@@ -47,6 +47,10 @@ Comparison between supervised & unsupervised methods (LDA).
 <b> Project_6_Pictures_Classifier:</b>      
 Dog breed recognition using the Imagenet database.    
 Comparison between a classic method (SIFT) and 2 re trained Neural Networks (CNN: VGG16 & RestNet50).    
+  - OpenCV;
+  - SIFT;
+  - VGG16;
+  - ResNet50;
   - Transfer Learning; 
   - CNN layers modifications.
 
