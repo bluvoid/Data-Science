@@ -1,5 +1,5 @@
 # Data-Science
-Data Science Projects &amp; Training
+Data Science Projects &amp; Training (2018):
 
 
 - Project_1_Nutritional_Analysis:    
@@ -31,6 +31,7 @@ Customer profile (RFM) prediction after the first shopping session.
   - Ridge Classifier, Ridge Kernell.
 
 - Project_5_Tag_Proposal_Engine:   
+Tags auto generation / Question categorization.
 Comparison between supervised & unsupervised methods (LDA).
   - NLP pré processing with Beautifulsoup & NLTK (stopwords removal, Lemmatization);
   - Frequency analysis with CountVectorizer;
