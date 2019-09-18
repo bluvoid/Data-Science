@@ -32,7 +32,7 @@ Customer profile (RFM) prediction after the first shopping session.
   - Ridge Classifier, Ridge Kernell.
 
 <b> Project_5_Tag_Proposal_Engine:</b>    
-Tags auto generation / Question categorization.
+Tags auto generation / Question categorization.    
 Comparison between supervised & unsupervised methods (LDA).
   - NLP pré processing with Beautifulsoup & NLTK (stopwords removal, Lemmatization);
   - Frequency analysis with CountVectorizer;
