@@ -2,7 +2,7 @@
 
 Tags auto generation, using the Stackexchange database.    
 See https://data.stackexchange.com/stackoverflow/query/new    
-Simple to use: Type a question related with programming (like Stackoverflow) and it will generate 5 Tags.
+Simple to use: Type a question related with programming (like on Stackoverflow) and it will generate 5 Tags.
 
 In "Analyse" folder:    
 <b> - 20180923_tag_proposal_Part1_NoClean.ipynb:</b>           	
