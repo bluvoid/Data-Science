@@ -1,5 +1,6 @@
 # Data-Science
-Data Science Projects &amp; Training (2018):
+Data Science Projects &amp; Training (2018).    
+The early notebooks are in French.
 
 
 - Project_1_Nutritional_Analysis:    
