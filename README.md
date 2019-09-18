@@ -34,7 +34,8 @@ Customer profile (RFM) prediction after the first shopping session using the "On
 <b> Project_5_Tag_Proposal_Engine:</b>    
 Tags auto generation / Question categorization using the Stackexchange database.    
 Comparison between supervised & unsupervised methods (LDA).
-  - NLP pré processing with Beautifulsoup & NLTK (stopwords removal, Lemmatization);
+  - NLP pré processing with Beautifulsoup & NLTK (stopwords removal, Lemmatization);    
+  - POS tagging;
   - Frequency analysis with CountVectorizer;
   - TF-IDF analysis with TfidfVectorizer;
   - Clustering: kMeans, HCA;
