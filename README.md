@@ -44,7 +44,7 @@ Comparison between supervised & unsupervised methods (LDA).
 
 - Project_6_Pictures_Classifier / Dog Breed Recognition:      
 Comparison between a classic method (SIFT) and 2 Neural Networks (CNN: VGG16 & RestNet50).    
-  - Transfert Learning; 
+  - Transfer Learning; 
   - CNN layers modifications.
 
 - Project_7_Analysis_with_SHAP:    	  
