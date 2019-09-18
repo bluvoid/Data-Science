@@ -5,7 +5,7 @@ See https://data.stackexchange.com/stackoverflow/query/new
 Simple to use: Type a question related with programming (like on Stackoverflow) and it will generate 5 Tags.
 
 In "Analyse" folder:    
-<b> - 20180923_tag_proposal_Part1_NoClean.ipynb:</b>           	
+<b> - 20180923_tag_proposal_Part1_NoClean.ipynb:</b>    
 NLP pré processing with Beautifulsoup & NLTK (stopwords removal, Lemmatization);    
 
 <b> - 20180923_tag_proposal_Part2_Clean.ipynb:</b>    
